@@ -1,4 +1,4 @@
-# Balogun Razaq O. — Portfolio Website
+# Balogun Razaq O. Portfolio Website
 
 Professional portfolio website for an Application Support Engineer and Customer Experience Expert.
 
@@ -95,5 +95,5 @@ Experienced in:
 
 ```bash
 .
-├── index.html
-└── README.md
+index.html
+README.md
